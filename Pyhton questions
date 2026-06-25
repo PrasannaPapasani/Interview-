@@ -1,0 +1,22 @@
+1).What is pyhton and list some of its key features?
+ANS:-pyhton is versitile ,high level programming language known for its easy to read syntax nd broad applications.here are some of pyhton 's key fetures:
+simple and Readable syntax,Dynamic typing,Extensive Librares and FrameWorks,Cross-Platform Compatibility.
+######2).What are Pyhton lists and tuples?
+ans:-lista and tuples are fundamental python data structures with distinct characteristics and use cases.
+List:
+Mutable:elements can be changes after creation.
+Memory usage:consumes more memory
+Performances:Slower iteration Compared to tuples but better for insertion and deletion operations.
+methods:offer various built-in methods for manipulation
+Example:
+a_list = ['Data','JOB','Carrer']
+a_list.append("Session")
+print(a_list) o/p.['Data','JOB','Carrer','Session']
+Tuple:
+Immutable: Elements cannot be changed after creation 
+Memory Usage:Consumes less Memory.
+Peformances:Faster iteration campard to list but lacks the flexibility of lists
+Methods :Limited built-in methods
+exe:a_tuple =('Data','job','carrer')
+print(a_tuple) #o/p:('Data','Camp','Carrer')
+####3).
